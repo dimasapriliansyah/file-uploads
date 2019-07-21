@@ -69,7 +69,7 @@ User.init({
 
           const tenant = user.tenant
 
-          const bucket = tenant.replace(" ", "_").toLowerCase()
+          const bucket = tenant.replace(" ", "").toLowerCase()
           user.bucket = bucket
 
         } catch (error) {
