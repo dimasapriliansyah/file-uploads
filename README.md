@@ -6,10 +6,10 @@
 
  # How to use it
 
- - ### Clone this github repository
- - ### Define your own **.env** file based on your environment
- - ### Run command `npm install` to install the dependencies
- - ### Finally run `npm start` to start the server
+ - Clone this github repository
+ - Define your own **.env** file based on your environment
+ - Run command `npm install` to install the dependencies
+ - Finally run `npm start` to start the server
 
  # For more documentation
 
